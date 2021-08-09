@@ -1,4 +1,4 @@
-# Scripts to find the sequences under peaks
+# Scripts to find the sequences under ChIP-seq peaks
 
 - This repository contain the scripts to find the sequences under peaks for MST12/HOX genes.
 - Please find more detail in the manuscript, Oses-Ruiz et al(2021)
