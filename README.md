@@ -10,6 +10,16 @@ python extract-sequence-under-broad-peaks.py
 
 output file: sequence fasta file
 
+# For a desired flank change line number 12 accordingly, below is for a 2kb flank 
+
+flank = 2000
+
+# After changing the input and output file name run the following
+
+python extract-sequence-under-broad-peaks-2kb-flanks.py
+
+
+
 ```
 
 
