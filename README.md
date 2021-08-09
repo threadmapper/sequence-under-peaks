@@ -23,6 +23,6 @@ python extract-sequence-under-broad-peaks-2kb-flanks.py
 
 ```
 
-- Please note we havetested this on Python 2.7 and Python 3.6.
+- Please note we have tested this on Python 2.7 and Python 3.6.
 
 
