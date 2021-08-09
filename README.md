@@ -1,7 +1,8 @@
 # Scripts to find the sequences under ChIP-seq peaks
 
 - This repository contain the scripts to find the sequences under peaks for MST12/HOX genes.
-- Please find more detail in the manuscript, Oses-Ruiz et al(2021)
+- Please find more detail in the manuscript, Oses-Ruiz et al (2021).
+- In case you would like to you this scripts for your analysis please modify the input  file names accordingly.
 
 ```python
 input files: genome.fasta and peak file(bed formatted)
@@ -22,5 +23,6 @@ python extract-sequence-under-broad-peaks-2kb-flanks.py
 
 ```
 
+- Please note we havetested this on Python 2.7 and Python 3.6.
 
 
